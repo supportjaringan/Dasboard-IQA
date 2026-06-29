@@ -1,2 +1,0 @@
-# Dasboard-IQA
-Dasboard IQA
